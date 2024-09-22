@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c8c2f2;
+    margin: 0;
+    padding: 20px;
+    color: #000000;
+}
+
+h2 {
+    color: #2207be;
+    padding-bottom: 5px;
+    width: fit-content;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.education-container {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.education-year {
+    width: 15%;
+    font-weight: bold;
+    text-align: left;
+    padding-right: 10px;
+}
+
+.education-details {
+    width: 85%;
+    text-align: justify;
+}
